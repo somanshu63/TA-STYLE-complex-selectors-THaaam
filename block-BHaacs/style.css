@@ -152,6 +152,7 @@ h1{
 }
 .hero img{
     width: 73%;
+    box-shadow:  0 40px 30px -30px rgba(0,0,0,0.5); 
 }
 .btn-hero{
     position: absolute;
@@ -231,7 +232,7 @@ p{
     height:47px;
     border-top:24px solid transparent;
     border-left:25px solid #59BFC2;
-    border-bottom:23px solid transparent;
+    border-bottom:24px solid transparent;
 }
 
 
